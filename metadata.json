@@ -1,0 +1,7 @@
+{
+  "name": "KitchenAI Architect",
+  "description": "Professional AI-powered kitchen redesign tool. Upload your kitchen and transform it with high-end interior design styles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
